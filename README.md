@@ -7,6 +7,6 @@ Dynamic Plot Notebook Link: https://nbviewer.org/github/MarwinSol05/SW7-Trading-
 Skills Used:
 1. Data Cleaning and Manipulation - NumPy and Pandas
 2. Data Visualisation - Seaborn, Plotly and Matplotlib
-3. Time Series Analysis - Sklearn, Skfolio, Time-Serie Cross Validation
+3. Time Series Analysis - Sklearn, Skfolio, Time-Series Cross Validation
 4. Quantitative Portfolio Management - Risk Adjusted Metrics, Naive Strategies, Convex Optimisation
 5. Repository Management - GitHub 
