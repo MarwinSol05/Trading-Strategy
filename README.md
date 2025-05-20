@@ -2,7 +2,7 @@
 
 Repository containing trading strategy over synthetic data for 10 stocks
 
-Dynamic Plot Notebook Link: https://nbviewer.org/github/MarwinSol05/SW7-Trading-Strategy/blob/main/SW7_Trading_Strategy_Problem.ipynb
+Dynamic Plot Notebook Link: 
 
 Skills Used:
 1. Data Cleaning and Manipulation - NumPy and Pandas
